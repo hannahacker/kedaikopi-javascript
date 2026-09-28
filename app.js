@@ -42,7 +42,7 @@ console.log("Script Javascript Telah Terhubung");
 const NAMA_KEDAI = "Kopi SyaHan";
 let namaKasir = "Kak Lulu";
 let shiftKerja = "Pagi";
-console.log("Nama Kedai : + NAMA_KEDAI");
+console.log("Nama Kedai : " + Kopi SyaHan);
 console.log("Nama Kasir : " + namaKasir); 
 console.log("Shift Kerja : " + shiftKerja);
 
